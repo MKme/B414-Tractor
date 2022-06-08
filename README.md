@@ -37,7 +37,9 @@ Brakes- Pinions and Differential: https://www.youtube.com/watch?v=EST-ssHkrIo
 
 Brake Rebuild Tutorial: https://www.youtube.com/watch?v=7vDgr-9QqwY
 
+Steering Box Rebuild tutorial https://www.youtube.com/watch?v=YjUDRWeNCfE
 
+Injector Pump rebuild: https://www.youtube.com/watch?v=h26p78YZIr4
 
 ## Parts:
 
