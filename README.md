@@ -13,6 +13,11 @@ Chat: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>!
 
 # B414-Tractor
 
+I needed a tractor for the Project Camp family bush property for moving logs, driveway repair, drainage repair and more.  
+
+Tractors are extremely expensive in rural Ontario and have been for many years.  I started searching for a simple model with loader and settled on the International Harvester B414 diesel made from 1961 to 1966
+
+Most manuals are hoarded for sale only on eBay and Amazon so Im releasign all the information, tutorials and manuals I find right here with the world.  IH wont mind :) 
 
 ## Tutorial Videos 
 
