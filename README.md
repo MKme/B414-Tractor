@@ -57,4 +57,4 @@ Transmission 22L capactiy 80W90
 
 Engine SAE30 6 litres 
 
-Hydraulic system 3" of fluid level from bottom ~8L 
+Hydraulic system 3" of fluid level from bottom
