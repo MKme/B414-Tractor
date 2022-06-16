@@ -27,9 +27,9 @@ R side: Shutoff valve only used when external line is tee'd in
 
 L Side: fast/slow valve 
 
-Lift lever
+Lift lever https://urlocalfarmer.com/draft-control-what-is-it-and-how-is-it-used/
 
-Draft control lever 
+Draft control lever https://urlocalfarmer.com/draft-control-what-is-it-and-how-is-it-used/
 
 Fluid Change Tutorial: https://www.youtube.com/watch?v=I0qWGOcD4_g
 
@@ -39,8 +39,11 @@ Brake Rebuild Tutorial: https://www.youtube.com/watch?v=7vDgr-9QqwY
 
 Steering Box Rebuild tutorial https://www.youtube.com/watch?v=YjUDRWeNCfE
 
+<<<<<<< Updated upstream
 Injector Pump rebuild: https://www.youtube.com/watch?v=h26p78YZIr4
 
+=======
+>>>>>>> Stashed changes
 ## Parts:
 
 Fuel Lift Pump https://ebay.us/vnRPjN 
@@ -57,4 +60,24 @@ Transmission 22L capactiy 80W90
 
 Engine SAE30 6 litres 
 
+<<<<<<< Updated upstream
 Hydraulic system 3" of fluid level from bottom
+=======
+Hydraulic system 3" of fluid level from bottom 
+
+
+## Valve Adjustment
+
+FarmallParts's channel  has this video that will be very helpful even though he is doing the adjustments on an M. the BD154 is set up in the same way. Both intake and exhaust use a clearance of 0.020" with engine warm. Start with cylinder one ( front of tractor ) find your top dead center mark. then move on in the flowing order , 3,4,2 rotating the engine by 1/2 a turn between each cylinder to find the next TDC. you 364 like my b414 does not have a hand crack hole like the M on the video. I just bump the starter, its tricky at first to stop at the right spot, but once you are a few cylinders in you start to get the feel of start vs where you want it to stop.
+
+https://www.youtube.com/watch?v=vxi9zDwZ3Rg
+
+
+## Other Reference Info:
+
+IH Forum site: https://www.redpowermagazine.com/forums/forum/3-boards/
+
+Interesting BD154 Engine history thread: https://www.redpowermagazine.com/forums/topic/24176-bd-144-bd154-diesels
+
+Engine diagnostics thread- Interesting info https://www.redpowermagazine.com/forums/topic/99892-bd154-she-smokes-she-pops-she-needs-a-rebuild/
+>>>>>>> Stashed changes
